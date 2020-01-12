@@ -1,6 +1,6 @@
 {
   "name": "@xcodebuild/vuepress-plugin-yuque",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "I: Yuque Repo, O: VuePress Site!",
   "main": "lib/index.js",
   "files": [
